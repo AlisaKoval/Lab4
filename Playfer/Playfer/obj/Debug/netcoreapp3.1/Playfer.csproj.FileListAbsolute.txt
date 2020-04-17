@@ -1,0 +1,11 @@
+C:\Users\alisa\source\repos\Playfer\Playfer\bin\Debug\netcoreapp3.1\Playfer.exe
+C:\Users\alisa\source\repos\Playfer\Playfer\bin\Debug\netcoreapp3.1\Playfer.deps.json
+C:\Users\alisa\source\repos\Playfer\Playfer\bin\Debug\netcoreapp3.1\Playfer.runtimeconfig.json
+C:\Users\alisa\source\repos\Playfer\Playfer\bin\Debug\netcoreapp3.1\Playfer.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Playfer\Playfer\bin\Debug\netcoreapp3.1\Playfer.dll
+C:\Users\alisa\source\repos\Playfer\Playfer\bin\Debug\netcoreapp3.1\Playfer.pdb
+C:\Users\alisa\source\repos\Playfer\Playfer\obj\Debug\netcoreapp3.1\Playfer.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\Playfer\Playfer\obj\Debug\netcoreapp3.1\Playfer.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Playfer\Playfer\obj\Debug\netcoreapp3.1\Playfer.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Playfer\Playfer\obj\Debug\netcoreapp3.1\Playfer.dll
+C:\Users\alisa\source\repos\Playfer\Playfer\obj\Debug\netcoreapp3.1\Playfer.pdb

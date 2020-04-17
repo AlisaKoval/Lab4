@@ -1,0 +1,11 @@
+C:\Users\alisa\source\repos\Vernama\Vernama\bin\Debug\netcoreapp3.1\Vernama.exe
+C:\Users\alisa\source\repos\Vernama\Vernama\bin\Debug\netcoreapp3.1\Vernama.deps.json
+C:\Users\alisa\source\repos\Vernama\Vernama\bin\Debug\netcoreapp3.1\Vernama.runtimeconfig.json
+C:\Users\alisa\source\repos\Vernama\Vernama\bin\Debug\netcoreapp3.1\Vernama.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Vernama\Vernama\bin\Debug\netcoreapp3.1\Vernama.dll
+C:\Users\alisa\source\repos\Vernama\Vernama\bin\Debug\netcoreapp3.1\Vernama.pdb
+C:\Users\alisa\source\repos\Vernama\Vernama\obj\Debug\netcoreapp3.1\Vernama.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\Vernama\Vernama\obj\Debug\netcoreapp3.1\Vernama.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Vernama\Vernama\obj\Debug\netcoreapp3.1\Vernama.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Vernama\Vernama\obj\Debug\netcoreapp3.1\Vernama.dll
+C:\Users\alisa\source\repos\Vernama\Vernama\obj\Debug\netcoreapp3.1\Vernama.pdb

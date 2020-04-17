@@ -1,0 +1,11 @@
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\bin\Debug\netcoreapp3.1\gronsfeld.exe
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\bin\Debug\netcoreapp3.1\gronsfeld.deps.json
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\bin\Debug\netcoreapp3.1\gronsfeld.runtimeconfig.json
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\bin\Debug\netcoreapp3.1\gronsfeld.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\bin\Debug\netcoreapp3.1\gronsfeld.dll
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\bin\Debug\netcoreapp3.1\gronsfeld.pdb
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\obj\Debug\netcoreapp3.1\gronsfeld.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\obj\Debug\netcoreapp3.1\gronsfeld.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\obj\Debug\netcoreapp3.1\gronsfeld.AssemblyInfo.cs
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\obj\Debug\netcoreapp3.1\gronsfeld.dll
+C:\Users\alisa\source\repos\gronsfeld\gronsfeld\obj\Debug\netcoreapp3.1\gronsfeld.pdb
